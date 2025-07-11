@@ -8,8 +8,8 @@
 
 /* --- 웹 폰트 정의 (Web Font Definition) --- */
 @font-face {
-    font-family: 'Happiness-Sans-Regular';
-    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2205@1.0/Happiness-Sans-Regular.woff2') format('woff2');
+    font-family: 'Wanted Sans-Regular';
+    src: url(https://fastly.jsdelivr.net/gh/wanteddev/wanted-sans@v1.0.1/packages/wanted-sans/fonts/webfonts/variable/split/WantedSansVariable.min.css) format('woff2');
     font-weight: 400;
     font-style: normal;
     unicode-range: U+AC00-D7A3; /* 한글 유니코드 범위 */
@@ -27,7 +27,7 @@
     
     /* 색상 팔레트 */
     --color-primary: #ffb2f0;   /* 주요 강조 색상 (노랑) */
-    --color-link: rgb(184, 255, 133);       /* 링크 색상 (파랑) */
+    --color-link: #b8ff85;       /* 링크 색상 (파랑) */
     --color-text-primary: rgb(0, 0, 0);   /* 기본 텍스트 색상 (검정) */
     --color-background-light: rgb(230, 230, 230); /* 밝은 배경색 (회색) */
     
