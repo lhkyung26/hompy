@@ -70,7 +70,7 @@
 
 /* --- HTML 기본 스타일 (HTML Base Styles) --- */
 html {
-    font-size: 13px; /* 기준 폰트 크기 */
+    font-size: 18px; /* 기준 폰트 크기 */
     letter-spacing: 0.5px; /* 글자 간격 */
     line-height: var(--line-height-default); /* 기본 라인 높이 */
     word-break: keep-all; /* 단어 단위 줄바꿈 유지 */
